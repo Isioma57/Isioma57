@@ -1,6 +1,7 @@
 [![MasterHead](https://hackernoon.com/images/f2px36fy.gif)](https://rishavchanda.io)
 <h1 align="center" style="color: blue;">Hi 👋, I'm Isioma Joy Ugbekile</h1>
 <h3 align="center" style="color: blue;">I am a Data Analyst, Pharmacist, and a Problem Solver.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
@@ -44,8 +45,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isioma57&show_icons=true&locale=en&layout=compact" alt="isioma57" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=isioma57&show_icons=true&locale=en" alt="isioma57" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isioma57&show_icons=true&locale=en" alt="isioma57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isioma57&" alt="isioma57" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=isioma57&" alt="isioma57" /></p>
