@@ -6,7 +6,7 @@
 
 
 <h1 align="center" style="color: blue;">Hi 👋, I'm Isioma Joy Ugbekile</h1>
-<h3 align="center" style="color: blue;">I am a Data Analyst, Pharmacist, and a Problem Solver.</h3>
+<h3 align="center" style="color: blue;">I am a Data Engineer, Pharmacist, and a Problem Solver.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 
