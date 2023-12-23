@@ -1,8 +1,9 @@
-<div style="text-align: center;">
+<p align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://i.imgur.com/mE1QYe6.jpg" alt="MasterHead" style="display: block; margin: 0 auto;">
+    <img src="https://i.imgur.com/mE1QYe6.jpg" alt="MasterHead">
   </a>
-</div>
+</p>
+
 
 <h1 align="center" style="color: blue;">Hi 👋, I'm Isioma Joy Ugbekile</h1>
 <h3 align="center" style="color: blue;">I am a Data Analyst, Pharmacist, and a Problem Solver.</h3>
