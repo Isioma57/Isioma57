@@ -6,13 +6,13 @@
 
 
 <h1 align="center" style="color: blue;">Hi 👋, I'm Isioma Joy Ugbekile</h1>
-<h3 align="center" style="color: blue;">I am a Data Analyst, Pharmacist, and a Problem Solver.</h3>
+<h3 align="center" style="color: blue;">I am a Data Engineer, Pharmacist, and a Problem Solver.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
 
-- 🔭 I am a passionate data analyst with a skill for uncovering insights and transforming complex data into meaningful stories. My goal is to design and implement data infrastructure that seamlessly collects, organizes, and stores information. By creating efficient and scalable systems, I aim to empower data professionals to extract meaningful insights, thereby facilitating informed decision-making. 
+- 🔭 I am a passionate data engineer with a focus on designing, building, and optimizing data infrastructure. My goal is to create efficient and scalable systems that seamlessly collect, organize, and store data. By creating efficient and scalable systems, I aim to empower data professionals to extract meaningful insights, thereby facilitating informed decision-making. 
 
 - 🌱 I’m currently learning **Data Engineering at AltSchool Africa**
 
