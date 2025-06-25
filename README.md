@@ -14,8 +14,6 @@
 
 - 🔭 I am a passionate data engineer with a focus on designing, building, and optimizing data infrastructure. My goal is to create efficient and scalable systems that seamlessly collect, organize, and store data. By creating efficient and scalable systems, I aim to empower data professionals to extract meaningful insights, thereby facilitating informed decision-making. 
 
-- 🌱 I’m currently learning **Data Engineering at AltSchool Africa**
-
 - 📝 I regularly write articles on [https://medium.com/@analyst-issy](https://medium.com/@analyst-issy)
 
 - 💬 Ask me about **Python, SQL, Excel, Tableau, Power BI**
