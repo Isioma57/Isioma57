@@ -19,8 +19,7 @@ My work sits at the intersection of data pipelines, cloud platforms, and real-ti
 
 Python • SQL • Apache Spark • Kafka • Airflow • dbt • AWS (S3, Glue, Redshift) • GCP (BigQuery) • Tableau • Power BI
 
-- 📝 I regularly write articles on [https://medium.com/@analyst-issy](https://medium.com/@analyst-issy)
-
+- 📝 I write articles on [https://medium.com/@analyst-issy](https://medium.com/@analyst-issy)
 
 - 📫 How to reach me **isiomaefe01@gmail.com**
 
