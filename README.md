@@ -12,13 +12,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
 
-- 🔭 I am a passionate data engineer with a focus on designing, building, and optimizing data infrastructure. My goal is to create efficient and scalable systems that seamlessly collect, organize, and store data. By creating efficient and scalable systems, I aim to empower data professionals to extract meaningful insights, thereby facilitating informed decision-making. 
+- 🔭 I’m a Data Engineer who enjoys turning messy, raw data into clean, reliable, and analytics-ready systems.
+My work sits at the intersection of data pipelines, cloud platforms, and real-time streaming. I help businesses move from just collecting data to actually using it.
+
+-⚡What I work with:
+
+Python • SQL • Apache Spark • Kafka • Airflow • dbt • AWS (S3, Glue, Redshift) • GCP (BigQuery) • Tableau • Power BI
 
 - 📝 I regularly write articles on [https://medium.com/@analyst-issy](https://medium.com/@analyst-issy)
 
-- 💬 Ask me about **Python, SQL, Excel, Tableau, Power BI**
 
-- 📫 How to reach me **isiomaikechukwu01@gmail.com**
+- 📫 How to reach me **isiomaefe01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
