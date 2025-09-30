@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
 
-- 🔭 I’m a Data Engineer who enjoys turning messy, raw data into clean, reliable, and analytics-ready systems.
+- 🔭 I enjoy turning messy, raw data into clean, reliable, and analytics-ready systems.
 My work sits at the intersection of data pipelines, cloud platforms, and real-time streaming. I help businesses move from just collecting data to actually using it.
 
 -⚡What I work with:
