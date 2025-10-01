@@ -50,7 +50,7 @@ Python • SQL • Apache Spark • Kafka • Airflow • dbt • AWS (S3, Glue,
         <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="40" height="40"/>
     </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.pngitem.com/middle/hTxTTTm_air-flow-png-apache-airflow-logo-png-transparent/#" alt="airflow" width="40" height="40"/>
+        <img src="https://www.pngitem.com/pimgs/m/401-4019613_air-flow-png-apache-airflow-logo-png-transparent.png" alt="airflow" width="40" height="40"/>
     </a>
 </p>
 
