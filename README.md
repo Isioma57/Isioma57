@@ -15,10 +15,6 @@
 - 🔭 I enjoy turning messy, raw data into clean, reliable, and analytics-ready systems.
 My work sits at the intersection of data pipelines, cloud platforms, and real-time streaming. I help businesses move from just collecting data to actually using it.
 
--⚡What I work with:
-
-Python • SQL • Apache Spark • Kafka • Airflow • dbt • AWS (S3, Glue, Redshift) • GCP (BigQuery) • Tableau • Power BI
-
 - 📝 I write articles on [https://medium.com/@analyst-issy](https://medium.com/@analyst-issy)
 
 - 📫 How to reach me **isiomaefe01@gmail.com**
@@ -54,5 +50,11 @@ Python • SQL • Apache Spark • Kafka • Airflow • dbt • AWS (S3, Glue,
     </a>
     <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
         <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" alt="dbt" width="40" height="40"/>
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+        <img src="https://logowik.com/content/uploads/images/kafka8040.jpg" alt="kafka" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+        <img src="https://logowik.com/content/uploads/images/301_docker.jpg" alt="docker" width="40" height="40"/>
     </a>
 </p>
