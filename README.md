@@ -52,4 +52,7 @@ Python • SQL • Apache Spark • Kafka • Airflow • dbt • AWS (S3, Glue,
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
         <img src="https://www.pngitem.com/pimgs/m/401-4019613_air-flow-png-apache-airflow-logo-png-transparent.png" alt="airflow" width="40" height="40"/>
     </a>
+    <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+        <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" alt="dbt" width="40" height="40"/>
+    </a>
 </p>
