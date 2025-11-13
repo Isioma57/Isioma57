@@ -12,8 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
 
-- 🔭 I enjoy turning messy, raw data into clean, reliable, and analytics-ready systems.
-My work sits at the intersection of data pipelines, cloud platforms, and reporting. I help businesses move from just collecting data to actually using it.
+- 🔭 I build systems that turn data into decisions.
+
+Whether it's designing scalable pipelines, modeling data warehouses, or creating dashboards, I help organizations make their data reliable, accessible, and actionable. I work across the full data stack, from raw ingestion to production insights.
 
 - 📝 I write articles on [https://medium.com/@datawithclarity](https://medium.com/@datawithclarity)
 
