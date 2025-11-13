@@ -21,7 +21,6 @@ Whether it's designing scalable pipelines, modeling data warehouses, or creating
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/isiomajoyugbekile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isiomajoyugbekile" height="30" width="40" /></a>
 <a href="https://medium.com/@analyst-issy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@analyst-issy" height="30" width="40" /></a>
 </p>
 
