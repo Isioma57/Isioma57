@@ -13,9 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
 
 - 🔭 I enjoy turning messy, raw data into clean, reliable, and analytics-ready systems.
-My work sits at the intersection of data pipelines, cloud platforms, and real-time streaming. I help businesses move from just collecting data to actually using it.
+My work sits at the intersection of data pipelines, cloud platforms, and reporting. I help businesses move from just collecting data to actually using it.
 
-- 📝 I write articles on [https://medium.com/@analyst-issy](https://medium.com/@datawithclarity)
+- 📝 I write articles on [https://medium.com/@datawithclarity](https://medium.com/@datawithclarity)
 
 - 📫 How to reach me **isiomaefe01@gmail.com**
 
