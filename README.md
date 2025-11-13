@@ -15,7 +15,7 @@
 - 🔭 I enjoy turning messy, raw data into clean, reliable, and analytics-ready systems.
 My work sits at the intersection of data pipelines, cloud platforms, and real-time streaming. I help businesses move from just collecting data to actually using it.
 
-- 📝 I write articles on [https://medium.com/@analyst-issy](https://medium.com/@analyst-issy)
+- 📝 I write articles on [https://medium.com/@analyst-issy](https://medium.com/@datawithclarity)
 
 - 📫 How to reach me **isiomaefe01@gmail.com**
 
