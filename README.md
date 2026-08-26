@@ -11,9 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isioma57&label=Profile%20views&color=0e75b6&style=flat" alt="isioma57" /> </p>
 
-- 🔭 I build systems that turn data into decisions.
-
-Whether it's designing scalable pipelines, modeling data warehouses, or creating dashboards, I help organizations make their data reliable, accessible, and actionable. I work across the full data stack, from raw ingestion to production insights.
+- 🔭 I turn raw data into clear, actionable business insights.
+I work across the analytics lifecycle, from cleaning and transforming data with SQL and Python to building reliable data models, analyzing business performance, and creating dashboards that support better decisions. My technical background in data pipelines, warehouses, and cloud tools helps me understand not just what the data says, but how to make it reliable and useful for analysis.
 
 - 📝 I write articles on [https://medium.com/@datawithclarity](https://medium.com/@datawithclarity)
 
